@@ -1,3 +1,11 @@
+This is branched from josteink/irony-eldoc which in turn branched
+from ikirill/irony-eldoc (the original master).
+
+This branch contains a fix when git pull replaces LF to CRLF.
+
+The josteink/irony-eldoc branch contains a fix for new emacs
+version where the original master uses some obsolete functions.
+
 # irony-eldoc - irony-mode support for eldoc-mode
 
 This implements eldoc support in irony-mode.  eldoc is a built-in
